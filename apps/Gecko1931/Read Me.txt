@@ -1,0 +1,4 @@
+This is an app that can be launched through the Homebrew Channel or some other method.
+Using it launches codes in the codes folder.
+It uses the .gct file that is named properly for the game.
+It can only read codes on sd cards that are two gigabytes or less.

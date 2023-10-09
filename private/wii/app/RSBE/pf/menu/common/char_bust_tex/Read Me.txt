@@ -1,0 +1,3 @@
+The result screen portraits belong in here.
+In the MenSelchrFaceB.brres files, there are a group of pictures used for each character.
+After a battle, the picture that goes with the used costume is displayed.

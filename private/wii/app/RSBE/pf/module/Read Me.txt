@@ -1,0 +1,4 @@
+In here goes all of the .rel files.
+They are used to port characters over other characters, or stages over other stages.
+There is not a simple way to port characters using .rel files, so just use the ones provided with hacks.
+For stages, use http://www.lakora.us/rel/ to port them.

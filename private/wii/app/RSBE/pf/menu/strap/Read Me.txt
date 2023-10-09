@@ -1,0 +1,3 @@
+In here goes the strap loader files.
+In the file is the strap screen (the picture you see after you start the game), the ESRB online interactions screen, and the loading screen.
+You need one that is for your region.

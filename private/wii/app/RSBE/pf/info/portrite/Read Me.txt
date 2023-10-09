@@ -1,0 +1,3 @@
+In here you can place files to change battle portraits.
+During battle, at the bottom it has the picture of the player, a percentage, and name.
+The battle portrait is the picture of the player.

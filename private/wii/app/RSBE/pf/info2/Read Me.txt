@@ -1,0 +1,3 @@
+In here, you can have info.pac, info_training.pac, info_training_mg.pac to change the name in the heads-up display.
+info_homerun.pac and info_homerun_mg.pac modify Home Run Contest.
+info_corps.pac and info_corps_mg.pac modify Break The Targets.

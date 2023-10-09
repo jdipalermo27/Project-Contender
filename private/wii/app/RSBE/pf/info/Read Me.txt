@@ -1,0 +1,2 @@
+In this folder, you can use Info.brres to edit names that appear in the heads-up display (HUD) while playing.
+What that means is that if your fighting your friend, below where it shows the percentage, you can change the name that's there.

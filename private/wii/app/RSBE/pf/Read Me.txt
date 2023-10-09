@@ -1,0 +1,2 @@
+The sub-folders here are where you will be placing your hacks.
+Nothing goes in this folder except for the folders that are already in it.

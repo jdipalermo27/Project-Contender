@@ -1,0 +1,49 @@
+In here goes your files for stages.
+This is only used for the stages that can be accessed by going through the Brawl menu, not the Single Player menu.
+That means stages such as Green Hill Zone, Battlefield, etc.
+
+Here is a list of stages and their file names.
+
+Battle Field STGBATTLEFIELD.PAC
+Yoshi's Island STGCRAYON.PAC
+Delphino Plaza STGDOLPIC.PAC
+75m STGDONKEY.PAC
+Big Blue (Melee) STGDXBIGBLUE.PAC
+Corneria (Melee) STGDXCORNERIA.PAC
+Jungle Japes (Melee) STGDXGARDEN.PAC
+Green Greens (Melee) STGDXGREENS.PAC
+Onett (Melee) STGDXONETT.PAC
+Pokemon Stadium (Melee) STGDXPSTADIUM.PAC
+Rainbow Cruise (Melee) STGDXRCRUISE.PAC
+Temple (Melee) STGDXSHRINE.PAC
+Yoshi's Island (Melee) STGDXYORSTER.PAC
+Brinstar (Melee) STGDXZEBES.PAC
+Distant Planet STGEARTH.PAC
+Mario Bros. STGFAMICOM.PAC
+Final Destination STGFINAL.PAC
+Port Town Aero Dive STGFZERO.PAC
+Green Hill STGGREENHILL.PAC
+Flat Zone 2 STGGW.PAC
+Halberd STGHALBERD.PAC
+Summit STGICE.PAC
+Rumble Falls STGJUNGLE.PAC
+Mario Circuit STGKART.PAC
+Warioware, Inc. STGMADEIN.PAC
+Luigi's Mansion STGMANSION.PAC
+Mushroomy Kingdom 1 STGMARIOPAST_00.PAC
+Mushroomy Kingdom 2 STGMARIOPAST_01.PAC
+Shadow Moses Isle (Rex) STGMETALGEAR_00.PAC
+Shadow Moses Isle (Ray) STGMETALGEAR_01.PAC
+Shadow Moses (Gecko) STGMETALGEAR_02.PAC
+New Pork City STGNEWPORK.PAC
+Norfair STGNORFAIR.PAC
+Bridge of Eldin STGOLDIN.PAC
+Frigate Orpheon STGORPHEON.PAC
+Skyworld STGPALUTENA.PAC
+Pictochat STGPICTCHAT_en.PAC
+Pirate Ship STGPIRATES.PAC
+Hanenbow STGPLANKTON.PAC
+Pokemon Stadium 2 STGSTADIUM.PAC
+Spear Pillar (Dialga) STGTENGAN_1.PAC
+Spear Pillar (Palkia) STGTENGAN_2.PAC
+Spear Pillar (Cresselia)STGTENGAN_3.PAC

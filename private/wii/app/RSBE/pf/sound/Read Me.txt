@@ -1,0 +1,3 @@
+In here goes the smashbros_sound.brsar.
+It contains all the sound effects in the game, however, they can only be changed using the Replacement Soundbank Engine, which doesn't use the smashbros_sound.brsar.
+The Replacement Soundbank Engine can be found here. http://forums.kc-mm.com/index.php?topic=61460.0

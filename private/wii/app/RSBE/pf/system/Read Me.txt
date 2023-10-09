@@ -1,0 +1,3 @@
+In here goes the system files.
+These would be common.pac, common2.pac, common3.pac, common4.pac, and common5.pac.
+These modify various things, such as the stage select screen, items, and character select screen.

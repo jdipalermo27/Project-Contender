@@ -1,0 +1,9 @@
+The .gct file contains codes that modify the game. 
+The codes in the supplied .gct are File Patch Code 3.5.1 and Disable Custom Stages.
+File Patch Code 3.5.1 allows you to use the mods on your sd card in the game.
+Disable Custom Stages makes you unable to use stages that you made in the game.
+
+In order to use a sd card larger than two gigabytes, use the SDHC Extension and Project M Launcher.
+Here is the SDHC Extension: http://forums.kc-mm.com/index.php?topic=65342.0 and Project M Launcher: https://www.mediafire.com/?v81jj912gb5jbv2
+
+Put the Project M Launcher in your apps folder. Open you .gct in an editor and add the SDHC Extension.

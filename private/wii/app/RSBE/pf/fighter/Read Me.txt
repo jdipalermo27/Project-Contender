@@ -1,0 +1,343 @@
+All the sub-folders here contain the characters data.
+
+You need to put certain files in the folders.
+
+ex: /private/wii/app/RSBE/pf/fighter/captain
+
+This is where your hacks for Captain Falcon go.
+The only hacks that go in where are:
+FitCaptain.pac
+FitCaptainXX.pac
+FitCaptainXX.pcs
+FitCaptainDark.pac
+FitCaptainDark.pcs
+FitCaptainEntry.pac
+FitCaptainFinal.pac
+FitCaptainFinalSpy.pac
+FitCaptainMotionEtc.pac
+FitCaptainSpy.pac
+FitCaptainSpy.pcs
+Kirby hats do not go in here. They go in Kirby's folder.
+ft_captain goes in the module folder.
+
+Anything that says Kirby in it, except for the .rel file, goes in Kirby's folder.
+
+Here are characters and there names that are used for the hacks.
+
+Captain Falcon: captain
+King Dedede: dedede
+Diddy Kong: diddy
+Donkey Kong: donkey
+Falco: falco
+Fox: fox
+Mr. Game & Watch:gamewatch
+Ganondorf: ganon
+GIGA Bowser: gkoopa
+Ike: ike
+Kirby: kirby
+Bowser: koopa
+Link: link
+Lucario: lucario
+Lucas: lucas
+Luigi: luigi
+Mario: mario
+Marth: marth
+Meta Knight: metaknight
+Ness: ness
+Peach: peach
+Pikachu: pikachu
+Captain Olimar: pikmin
+Pit: pit
+Ivysaur: pokefushigisou
+Charizard: pokelizardon
+Pok»mon Trainer: poketrainer
+Squirtle: pokezenigame
+Ice Climbers: popo
+Jigglypuff: purin
+R.O.B.: robot
+Samus: samus
+Sheik: sheik
+Snake: snake
+Sonic: sonic
+Zero Suit Samus:szerosuit
+Toon Link: toonlink
+Wario: wario
+Warioman: warioman
+Wolf: wolf
+Yoshi: yoshi
+Zelda: zelda
+
+Here are the costumes for each character.
+
+Captain Falcon
+00-Original
+01-Blood Hawk
+02-Green
+03-Blue
+04-Black
+05-Pink
+
+Dedede
+00-Original
+02-Green
+03-White
+04-Grayscale
+05-Purple
+06-Pink
+
+Diddy Kong
+00-Original
+02-Green
+03-Blue
+04-Pink
+05-Yellow
+06-Purple
+
+Donkey Kong
+00-Original
+01-Red
+02-Green
+03-Blue
+04-Black
+05-White
+
+Falco
+00-Original
+01-Red
+02-Green
+03-Blue
+04-Black
+05-Yellow
+
+Fox
+00-Original
+01-Red
+02-Green
+03-Blue
+04-Black
+05-White
+
+Ganondorf
+00-Original
+01-Red
+02-Green
+03-Blue
+04-Grandpa Ganon
+05-Brown
+
+Ike
+00-Original
+01-Red
+02-Green
+03-Blue
+04-Another Kind Of Green
+05-Yellow
+
+Kirby
+00-Original
+01-Red
+02-Green
+03-Blue
+04-Yellow
+05-White
+
+Bowser
+00-Original
+01-Red
+03-Blue
+04-Black
+05-Pimp Gold
+06-Brown
+
+Link
+00-Original
+01-Red
+03-Blue
+04-Dark
+05-White/Light Blue
+06-Yellow
+
+Lucario
+00-Original
+01-Red
+02-Green
+04-Light Blue
+05-White
+
+Lucas
+00-Original
+01-Red
+02-Green
+03-Blue
+04-Claus
+05-Pink/Purple
+
+Luigi
+00-Original
+01-Red
+02-UNUSED-Blue
+03-Blue
+04-Fire Luigi
+05-Orange
+06-Waluigi
+
+Mario
+00-Original
+02-Green
+03-Jumpman
+04-Wario
+05-Black
+06-Fire Mario
+
+Marth
+00-Original
+01-Red
+02-Green
+03-Blue
+04-Black
+05-White
+
+Meta-Knight
+00-Original
+01-Red
+02-Green
+03-Blue
+04-White
+05-Pink
+
+Ness
+00-Original
+02-Green
+03-Blue
+04-Bumble-Bee
+05-Fuel
+06-Mr.Saturn
+
+Peach
+00-Original
+01-Red
+02-Green
+03-Blue
+04-White
+05-Daisy/Yellow
+
+Pikachu
+00-Original
+01-Cap
+02-Bandana
+03-Googles
+
+Olimar
+00-Original
+01-Red
+02-Green
+03-Blue
+04-White
+05-Dirty Helmet (Yellow and Black)
+
+Pit
+00-Original
+01-Red
+02-Green
+03-Blue
+04-Gold
+05-Black
+
+Pokemon Trainer
+00-Original
+01-Red
+02-Green
+03-Blue
+04-Light
+
+Ice Climbers
+00-Original
+01-Red
+02-Green
+03-Blue
+04-Dark
+05-Light
+
+Jigglypuff
+00-Normal
+01-Flower
+02-Sleep Hat
+03-Japan Hat
+04-Trainer Cap
+
+ROB
+00-Original
+02-Green
+03-Blue
+04-Pink/Purple
+05-Yellow
+06-NES
+
+Samus
+00-Original
+01-Pink
+02-Green
+03-Fusion/Blue
+04-Gravity Suit/Purple
+05-Dark Suit/Black
+
+Zelda
+00-Original
+01-Red
+02-Green
+03-Blue
+04-Black
+05-Ocarina of Time colors
+
+Snake
+00-Original
+01-Red/Black
+02-Green
+03-Blue
+04-"IDK WTF this is" camo
+05-Wild Feline camo
+
+Sonic
+00-Original
+01-Red
+02-Green
+04-Gold
+05-Black
+
+Toon Link
+00-Original
+01-Red
+03-Blue
+04-Purple
+05-NES Link
+06-Dark
+
+Wario
+00-Original (WarioWare)
+01-Red (WarioWare)
+02-Green (WarioWare)
+03-Blue (WarioWare)
+04-Black & Red (WarioWare)
+05-Orange & Blue (WarioWare)
+06-Original (Overall)
+07-Red (Overall)
+08-Green (Overall)
+09-Blue (Overall)
+10-WarioLand 2 color (Overall)
+11-WarioLand 3 color (Overall)
+
+Wolf
+00-Original
+01-Red
+02-Green
+03-Blue
+04-Black
+05-Red & White
+
+Yoshi
+00-Original
+01-Red
+03-Blue
+04-Yellow
+05-Pink
+06-Light Blue

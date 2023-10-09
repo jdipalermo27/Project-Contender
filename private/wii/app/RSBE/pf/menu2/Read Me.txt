@@ -1,0 +1,1 @@
+The files for the main menu, character select screen, and the title/beginning of opening video.
