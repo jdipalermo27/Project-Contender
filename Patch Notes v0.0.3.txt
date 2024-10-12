@@ -1,0 +1,17 @@
+Contender v0.0.2 ---> Contender v0.0.3
+--------------------------------------
+Universal Changes
+*****************
+- Airdodege cancel out of hitstun removed.
+Attack Cancel Out of Hitstun: 26 --> 60
+- Fastfall in tumble added.
+Hitstun Constant: .4 --> .5
+Dashdance Window: 6 --> 15
+- Scarjumping added
+- Ability to shield during dash added
+- Tripping removed
+- Fastfall from cstick removed
+- Run cancel added
+- Ledge is now actionable frame 1
+- Jumps now use ground momentum
+--------------------------------------

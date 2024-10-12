@@ -1,0 +1,84 @@
+Contender v0.0.3 ---> Contender v0.0.4
+--------------------------------------
+Universal Changes
+*****************
+Spotdodge Angle: -0.7 --> -0.9
+Game boots to CSS
+Default rules are 3 stock 8 minutes
+Custom FD, Halberd,
+All mods will load off of the sd card and we will start using the vanilla brawl iso.
+--------------------------------------
+Captain Falcon
+**************
+Dash Initial Velocity: 2.5 --> 2
+Ground to Air Jump Momentum Multiplier: 2.5 --> 1
+Jump X Initial Velocity: 2.5 --> 2.1
+Air Jump Multiplier: 1 --> .9
+--------------------------------------
+Fox
+***
+Up Throw -
+	Total Frames: 50 --> 40
+--------------------------------------
+Ganondorf
+*********
+Jab -
+	Startup: 7 --> 4
+--------------------------------------
+Jigglypuff
+**********
+Weight: 68 --> 65
+Rest -
+	Hitbox 1 -
+		BKB: 200 --> 150
+--------------------------------------
+Luigi
+*****
+Green Missile -
+	* Always misfires, future patches will reference green missile and misfire as green missile.
+	Misfire Damage: 25 --> 10
+	Misfire KBG: 100 --> 80
+	Misfire Horizontal Momentum: 4 --> 2
+Forward Aerial -
+	Hitbox 1 -
+		KBG: 80 --> 100
+	Hitbox 2 -
+		KBG: 80 --> 100
+Forward Tilt High - 
+	Hitbox 1 -
+		BKB: 2 --> 20
+		KBG: 100 --> 90
+Forward Tilt Med - 
+	Hitbox 1 -
+		BKB: 2 --> 20
+		KBG: 100 --> 90
+Forward Tilt Low - 
+	Hitbox 1 -
+		BKB: 2 --> 20
+		KBG: 100 --> 90
+Cyclone -
+	Hitbox 1 -
+		BKB: 20 --> 100
+		KBG: 60 --> 0
+	Hitbox 2 -
+		BKB: 20 --> 100
+		KBG: 60 --> 0
+	Hitbox 3 -
+		BKB: 20 --> 100
+		KBG: 60 --> 0
+	Hitbox 4 -
+		BKB: 20 --> 100
+		KBG: 60 --> 0
+--------------------------------------
+Metaknight
+**********
+Weight: 79 --> 68
+--------------------------------------
+Pokemon Trainer
+***************
+*Switch glitch and charizard up throw fixed
+--------------------------------------
+Sheik
+*****
+Various changes that I forgot to write down.
+--------------------------------------

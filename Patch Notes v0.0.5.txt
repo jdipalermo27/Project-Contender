@@ -1,0 +1,41 @@
+Contender v0.0.4 --> Contender v0.0.5
+-------------------------------------
+Mr. Game and Watch
+******************
+Down Tilt - 
+	Hitbox 1 -
+		Size: 8 --> 5
+	Hitbox 2 -
+		Size: 9 --> 5
+Ness
+****
+Forward Tilt -
+	Hitbox 2 -
+		BKB: 12 --> 20
+Forward Tilt High -
+	Hitbox 2 -
+		BKB: 12 --> 20
+Forward Tilt Low -
+	Hitbox 2 -
+		BKB: 12 --> 20
+Down Tilt -
+	Interruptable: 14 --> 9
+Dash Attack -
+	Hitbox 1 -
+		Active frames: 1 --> 7
+	Hitbox 2 -
+		Active frames: 1 --> 7
+	Hitbox 3 -
+		Active frames: 1 --> 7
+	Hitbox 4 -
+		Active frames: 1 --> 7
+		BKB: 0 --> 20
+		KBG: 100 --> 20
+		Angle: 20 --> 10
+Luigi
+*****
+Forward Air -
+	Hitbox 1 -
+		KBG: 100 --> 120
+	Hitbox 2 -
+		KBG: 100 --> 120

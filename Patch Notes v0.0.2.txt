@@ -1,0 +1,43 @@
+Contender v0.0.1 ---> Contender v0.0.2
+--------------------------------------
+Captain Falcon
+**************
+Ground to Air Jump Momentum Multiplier: 2 --> 2.5
+Maximum X Air Velocity: 1.8 --> 1.12
+--------------------------------------
+Luigi
+*****
+Neutral Special -
+	Hitbox 1 -
+		Rehit rate: 0 --> 1
+Up Special -
+	Landing Lag: 40 --> 20
+--------------------------------------
+Mario
+*****
+Neutral Special -
+	Endlag: 43 --> 20
+--------------------------------------
+Jigglypuff
+**********
+Back Aerial -
+	Hitbox 1 -
+		KBG: 90 --> 100
+	Hitbox 2 -
+		KBG: 90 --> 100
+	Hitbox 3 -
+		KBG: 90 --> 100
+--------------------------------------
+Samus
+*****
+Side Special -
+	Startup: 22 --> 20
+Air Side Special -
+	Startup: 24 --> 15
+Neutral Air -
+	Hitbox 1 -
+		BKB: 10 --> 12
+		KBG: 80 --> 95
+	Hitbox 2 -
+		BKB: 10 --> 12
+		KBG: 80 --> 95
