@@ -1,0 +1,260 @@
+Contender v0.0.6 --> Contender v0.0.7
+-------------------------------------
+Universal Changes
+******************
+Buffer is now set by handicap = handicap/10
+
+Samus
+******************
+Size: 1.015 --> 1.0
+Hop Y Initial Velocity: 1.766 --> 1.5
+Upsmash -
+	Hit 1
+		Hitbox 0
+		~[+] Damage: 4 --> 6
+		~[+] KBG: 50 --> 120
+		Hitbox 1
+		~[+] Damage: 4 --> 6
+		~[+] KBG: 50 --> 120
+	Hit 2
+		Hitbox 0
+		~[+] Damage: 4 --> 6
+		~[+] KBG: 50 --> 120
+		~[+] BKB: 35 --> 50
+		Hitbox 1
+		~[+] Damage: 4 --> 6
+		~[+] KBG: 50 --> 120
+		~[+] BKB: 35 --> 50
+	Hit 3
+		Hitbox 0
+		~[+] Damage: 4 --> 6
+		~[+] KBG: 50 --> 120
+		~[+] BKB: 35 --> 50
+		Hitbox 1
+		~[+] Damage: 4 --> 6
+		~[+] KBG: 50 --> 120
+		~[+] BKB: 35 --> 50
+	Hit 4
+		Hitbox 0
+		~[+] Damage: 4 --> 6
+		~[+] KBG: 50 --> 120
+		~[+] BKB: 35 --> 50
+		Hitbox 1
+		~[+] Damage: 4 --> 6
+		~[+] KBG: 50 --> 120
+		~[+] BKB: 35 --> 50
+Fair -
+	2.0 frame speed modifier on frame 7 to 32 of animation
+Upair - 
+	Hitbox 1 -
+		Base Knockback: 40 --> 60
+		Knockback Growth: 105 --> 50
+
+Luigi
+******************
+Fireball Velocity: 1.25 -->0.9
+Fireball Activity: 50 --> 120
+
+Metaknight
+********************
+
+TORNADO
+Remove the launching hits
+UPTILT
+	Hit 1
+	~[-] Remove
+	Hit 2
+		Hitbox 2 -
+		~[-] Size: 10 --> 6
+		
+DOWNTILT
+		Hitbox 1 -
+		~[-] Damage: 5 --> 4
+		Hitbox 2 -
+		~[-] Damage: 6 --> 4
+		Hitbox 3 -
+		~[-] Damage: 7 --> 4
+		
+FORWARD TILT
+	Hit 1
+		Hitbox 0 -
+		~[-] Damage: 4 --> 2
+		Hitbox 1 -
+		~[-] Damage: 4 --> 2
+		Hitbox 2 -
+		~[-] Damage: 4 --> 2
+	Hit 2
+		Hitbox 0 -
+		~[-] Damage: 3 --> 2
+		Hitbox 1 -
+		~[-] Damage: 3 --> 2
+		Hitbox 2 -
+		~[-] Damage: 3 --> 2
+	Hit 3
+		Hitbox 0 -
+		~[-] Damage: 5 --> 4
+		Hitbox 1 -
+		~[-] Damage: 5 --> 4
+		Hitbox 2 -
+		~[-] Damage: 5 --> 4
+		
+FORWARD SMASH
+		Hitbox 0 -
+		~[-] Damage: 14 --> 10
+		Hitbox 1 -
+		~[-] Damage: 14 --> 10
+		Hitbox 2 -
+		~[-] Damage: 14 --> 10
+		Hitbox 3 -
+		~[-] Damage: 14 --> 10
+		
+NAIR
+		Hitbox 0 -
+		~[-] Startup: 3 --> 5
+		~[-] Damage: 12 --> 10
+		~[-] Active Frames: 21 --> 5
+		Hitbox 1 -
+		~[-] Startup: 3 --> 5
+		~[-] Damage: 12 --> 10
+		~[-] Active Frames: 21 --> 5
+		Hitbox 2 -
+		~[-] Startup: 3 --> 5
+		~[-] Damage: 12 --> 10
+		~[-] Active Frames: 21 --> 5
+		Hitbox 3 -
+		~[-] Startup: 3 --> 5
+		~[-] Damage: 12 --> 10
+		~[-] Active Frames: 21 --> 5
+		
+FAIR
+	Hit 1
+		Hitbox 0 -
+		~[-] Damage: 3 --> 2
+		Hitbox 1 -
+		~[-] Damage: 3 --> 2
+		Hitbox 2 -
+		~[-] Damage: 3 --> 2
+		Hitbox 3 -
+		~[-] Damage: 3 --> 2
+	Hit 2
+		Hitbox 0 -
+		~[-] Damage: 3 --> 2
+		Hitbox 1 -
+		~[-] Damage: 3 --> 2
+		Hitbox 2 -
+		~[-] Damage: 3 --> 2
+		Hitbox 3 -
+		~[-] Damage: 3 --> 2
+	Hit 3
+		Hitbox 0 -
+		~[-] Damage: 4 --> 2
+		Hitbox 1 -
+		~[-] Damage: 4 --> 2
+		Hitbox 2 -
+		~[-] Damage: 4 --> 2
+		Hitbox 3 -
+		~[-] Damage: 4 --> 2
+BAIR
+	Hit 1
+		Hitbox 0 -
+		~[-] Damage: 3 --> 2
+		Hitbox 1 -
+		~[-] Damage: 3 --> 2
+		Hitbox 2 -
+		~[-] Damage: 3 --> 2
+	Hit 2
+		Hitbox 0 -
+		~[-] Damage: 3 --> 2
+		Hitbox 1 -
+		~[-] Damage: 3 --> 2
+		Hitbox 2 -
+		~[-] Damage: 3 --> 2
+	Hit 3
+		Hitbox 0 -
+		~[-] Damage: 4 --> 2
+		Hitbox 1 -
+		~[-] Damage: 4 --> 2
+		Hitbox 2 -
+		~[-] Damage: 4 --> 2
+UPAIR
+		Hitbox 0 -
+		~[-] Damage: 6 --> 4
+		Hitbox 1 -
+		~[-] Damage: 6 --> 4
+		Hitbox 2 -
+		~[-] Damage: 6 --> 4
+		Hitbox 3 -
+		~[-] Damage: 6 --> 4
+DAIR
+		Hitbox 0 -
+		~[-] Damage: 7 --> 6
+		Hitbox 1 -
+		~[-] Damage: 7 --> 6
+		Hitbox 2 -
+		~[-] Damage: 9 --> 6
+		Hitbox 3 -
+		~[-] Damage: 9 --> 6
+Up Special
+	Hit 1
+		Hitbox 0 -
+		~[+] Active Frames: 2 --> 3
+		Hitbox 1 -
+		~[+] Active Frames: 2 --> 3
+	Hit 2
+		~[-] Remove
+	Hit 3
+		~[-] Remove
+
+Bowser
+***********************
+
+FORWARD AIR
+		Hitbox 0 -
+		~[+] Size: 6.0 --> 6.5
+
+Zelda
+******************
+JAB
+		Hitbox 0 -
+			Damage: 2 --> 4
+		Hitbox 1 -
+			Damage: 2 --> 4
+		Hitbox 2 -
+			Damage: 2 --> 4
+		Hitbox 3 -
+			Damage: 2 --> 4
+DOWN TILT
+		Hitbox 0 -
+		~[+] Damage: 7 --> 12
+		~[+] Angle: 270 --> 90
+		Hitbox 1 -
+		~[+] Damage: 7 --> 9
+		~[+] Angle: 80 --> 130
+		Hitbox 2 -
+		~[+] Damage: 8 --> 9
+		~[+] Angle: 270 --> 130
+		Hitbox 3 -
+		~[+] Damage: 8 --> 9
+		~[+] Angle: 270 --> 130
+DIN'S FIRE
+		~[+] Initial Speed: 0.5 --> 0.75
+		~[+] Detonation Timer: 7 --> 1
+NEUTRAL AIR
+		Hitbox 0 -
+		~[R] Angle: 150 --> 365
+		Hitbox 1 -
+		~[R] Angle: 150 --> 365
+		Hitbox 2 -
+		~[R] Angle: 90 --> 365
+		Hitbox 3 -
+		~[R] Angle: 270 --> 365
+FORWARD AIR
+		Hitbox 0 -
+		~[+] KBG: 95 --> 100
+		~[+] Size: 1.7 --> 1.8
+BACK AIR 
+		Hitbox 0 -
+		~[-] Damage: 20 --> 15
+		~[+] Size: 1.7 --> 3.5
+		Hitbox 3 -
+		~[R] Removed
